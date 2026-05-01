@@ -1,6 +1,8 @@
 {
     "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "test": "echo \"No tests yet\" && exit 0"
+
   },
   "dependencies": {
     "express": "^5.2.1"
